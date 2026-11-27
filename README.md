@@ -29,3 +29,12 @@
 **Методи:** KPI-аналіз, аналіз Парето, теплова карта, матриця ефективності продуктів, дерево декомпозиції.
 
 [Переглянути дашборд ефективності продажів](https://github.com/Litcheveckiy3477/power-bi-sales-performance-dashboard)
+
+### 3. Комплексний аналіз E-Commerce | Olist
+
+**Аналіз:** динаміка продажів, платіжна поведінка, логістика, ефективність продавців, задоволеність покупців, RFM-сегментація та когортний аналіз.
+
+**Інструменти:** Power BI, DAX, Power Query, Data Modeling, Time Intelligence, статистичний аналіз.
+
+[Переглянути E-Commerce дашборд](https://github.com/Litcheveckiy3477/olist-ecommerce-power-bi)
+
